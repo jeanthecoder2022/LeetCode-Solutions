@@ -13,6 +13,9 @@
  *     }
  * }
  */
+
+//Time complexity of this solution is O(n)
+// Space complexity O(n)
 class Solution {
     Map<Integer,Integer> map ;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
